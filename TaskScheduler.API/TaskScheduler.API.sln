@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{E2C2B9B3-9414-490B-B508-00F6E850F6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService.API", "AuthService.API\AuthService.API.csproj", "{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteService.API", "NoteService.API\NoteService.API.csproj", "{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C5ED93D-C93C-4B19-9FDD-DBE19BF7611F} = {E2C2B9B3-9414-490B-B508-00F6E850F6CC}
+		{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F} = {E2C2B9B3-9414-490B-B508-00F6E850F6CC}
+	EndGlobalSection
+EndGlobal

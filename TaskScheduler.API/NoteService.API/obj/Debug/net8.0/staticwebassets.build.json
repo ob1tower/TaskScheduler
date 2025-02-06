@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KrCV2Ezi3cuCLTcXOe9wIcSJdpYUNJhobe/5ndgXpJg=",
+  "Source": "NoteService.API",
+  "BasePath": "_content/NoteService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

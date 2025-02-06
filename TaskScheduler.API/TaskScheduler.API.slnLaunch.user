@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NoteService.API</name>
+    </assembly>
+    <members>
+        <member name="M:NoteService.API.Controllers.NotesController.GetAllNotes">
+            <summary>
+            Получить список всех задач.
+            </summary>
+            <returns>Список задач.</returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.CreateNote(NoteService.API.Dtos.Notes.NoteCreateDto)">
+            <summary>
+            Создать новую задачу.
+            </summary>
+            <param name="createTaskDto">Данные для создания задачи.</param>
+            <returns>Созданная задача.</returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.UpdateNote(System.Guid,NoteService.API.Dtos.Notes.NoteUpdateDto)">
+            <summary>
+            Обновить существующую задачу.
+            </summary>
+            <param name="updateTaskDto">Данные для обновления задачи.</param>
+            <returns>Обновленная задача.</returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.DeleteNote(System.Guid)">
+            <summary>
+            Удалить задачу по ID.
+            </summary>
+            <param name="id">ID задачи.</param>
+            <returns>Статус операции.</returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.GetNote(System.Guid)">
+            <summary>
+            Получить задачу по ID.
+            </summary>
+            <param name="id">ID задачи.</param>
+            <returns>Данные задачи ошибки.</returns>
+        </member>
+        <member name="T:NoteService.API.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

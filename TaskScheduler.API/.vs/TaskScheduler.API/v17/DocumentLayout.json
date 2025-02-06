@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|c:\\users\\ka1ze\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backend\\taskscheduler.api\\noteservice.api\\configurations\\notesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|solutionrelative:noteservice.api\\configurations\\notesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|c:\\users\\ka1ze\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backend\\taskscheduler.api\\noteservice.api\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|solutionrelative:noteservice.api\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|c:\\users\\ka1ze\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backend\\taskscheduler.api\\noteservice.api\\entities\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|solutionrelative:noteservice.api\\entities\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|c:\\users\\ka1ze\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backend\\taskscheduler.api\\noteservice.api\\enums\\projecttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD96015-EE8C-4E4F-A9E8-2B0A7963368F}|NoteService.API\\NoteService.API.csproj|solutionrelative:noteservice.api\\enums\\projecttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Enums\\NoteStatus.cs",
+              "RelativeDocumentMoniker": "NoteService.API\\Enums\\NoteStatus.cs",
+              "ToolTip": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Enums\\NoteStatus.cs",
+              "RelativeToolTip": "NoteService.API\\Enums\\NoteStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:13:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Entities\\NotesEntity.cs",
+              "RelativeDocumentMoniker": "NoteService.API\\Entities\\NotesEntity.cs",
+              "ToolTip": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Entities\\NotesEntity.cs",
+              "RelativeToolTip": "NoteService.API\\Entities\\NotesEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:59:12.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Configurations\\NotesConfiguration.cs",
+              "RelativeDocumentMoniker": "NoteService.API\\Configurations\\NotesConfiguration.cs",
+              "ToolTip": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Configurations\\NotesConfiguration.cs",
+              "RelativeToolTip": "NoteService.API\\Configurations\\NotesConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:53:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectTag.cs",
+              "DocumentMoniker": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Enums\\ProjectTag.cs",
+              "RelativeDocumentMoniker": "NoteService.API\\Enums\\ProjectTag.cs",
+              "ToolTip": "C:\\Users\\ka1ze\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\backEnd\\TaskScheduler.API\\NoteService.API\\Enums\\ProjectTag.cs",
+              "RelativeToolTip": "NoteService.API\\Enums\\ProjectTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:36:03.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

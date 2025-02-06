@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuthService.API</name>
+    </assembly>
+    <members>
+        <member name="M:AuthService.API.Controllers.AuthController.Register(AuthService.API.Dtos.UserRegisterDto)">
+            <summary>
+            Регистрация
+            </summary>
+            <param name="userRegisterDto">Данные пользователя для регистрации</param>
+            <returns></returns>
+        </member>
+        <member name="M:AuthService.API.Controllers.AuthController.Login(AuthService.API.Dtos.UserLoginDto)">
+            <summary>
+            Авторизация
+            </summary>
+            <param name="userLoginDto">Данные пользователя для авторизации</param>
+            <returns></returns>
+        </member>
+        <member name="T:AuthService.API.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthService.API.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthService.API.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthService.API.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

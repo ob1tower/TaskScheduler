@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NoteService.API</name>
+    </assembly>
+    <members>
+        <member name="M:NoteService.API.Controllers.NotesController.GetAllNotes">
+            <summary>
+            Получение списка всех задач
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.CreateNote(NoteService.API.Dtos.Notes.NoteCreateDto)">
+            <summary>
+            Создание новой задачи
+            </summary>
+            <param name="noteCreateDto">Данные для создания задачи</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.UpdateNote(System.Guid,NoteService.API.Dtos.Notes.NoteUpdateDto)">
+            <summary>
+            Обновление задачи
+            </summary>
+            <param name="id">ID задачи для обновления</param>
+            <param name="noteUpdateDto">Данные для обновления задачи</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.DeleteNote(System.Guid)">
+            <summary>
+            Удаление задачи по ID
+            </summary>
+            <param name="id">ID задачи для удаления</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.NotesController.GetNote(System.Guid)">
+            <summary>
+            Получение задачи по ID
+            </summary>
+            <param name="id">ID задачи</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.ProjectsController.GetAllProject">
+            <summary>
+            Получение списка всех проектов
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.ProjectsController.CreateProject(NoteService.API.Dtos.Projects.ProjectCreateDto)">
+            <summary>
+            Создание нового проекта
+            </summary>
+            <param name="projectCreateDto">Данные для создания проекта</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.ProjectsController.UpdateProject(System.Guid,NoteService.API.Dtos.Projects.ProjectUpdateDto)">
+            <summary>
+            Обновление проекта
+            </summary>
+            <param name="id">ID проекта для обновления</param>
+            <param name="projectUpdateDto">Данные для обновления проекта</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.ProjectsController.DeleteProject(System.Guid)">
+            <summary>
+            Удаление проекта по ID
+            </summary>
+            <param name="id">ID проекта для удаления</param>
+            <returns></returns>
+        </member>
+        <member name="M:NoteService.API.Controllers.ProjectsController.GetProject(System.Guid)">
+            <summary>
+            Получение проекта по ID
+            </summary>
+            <param name="id">ID проекта</param>
+            <returns></returns>
+        </member>
+        <member name="T:NoteService.API.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NoteService.API.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
